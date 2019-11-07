@@ -1,3 +1,3 @@
-Front-end criado para estudo, baseado na rede social Instagram.
+Projeto desenvolvido em React para estudo, baseado na rede social Instagram.
 
 ![](insta.gif)
